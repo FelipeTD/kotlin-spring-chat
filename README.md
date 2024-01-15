@@ -16,3 +16,7 @@ Ele está dividido em 5 partes sendo elas:
 ### Parte 3
 - Utilização de extensões para deixar o código mais organizado
 - Utilização de markdown para deixar os testes mais organizados
+
+### Parte 4
+- Adicionando Spring Webflux com Kotlin Coroutines
+- Isso permite que a aplicação seja assincrona e sem bloqueios
