@@ -20,3 +20,8 @@ Ele está dividido em 5 partes sendo elas:
 ### Parte 4
 - Adicionando Spring Webflux com Kotlin Coroutines
 - Isso permite que a aplicação seja assincrona e sem bloqueios
+
+### Parte 5
+- Adicionando RSocket para streaming de mensagens
+- Testes atualizados para testar o streaming
+- Deletado classe FakeMessageService pois já temos a implementação
